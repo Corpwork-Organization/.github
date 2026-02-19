@@ -32,5 +32,21 @@ This organization aims to automate the provisioning of Software as a Service, ap
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Carmonoca">
+        <img src="https://github.com/Carmonoca.png" width="100px;" alt="William Coelho"/><br>
+        <sub>
+          <b>Fernanda Coelho</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pwnkcin">
+        <img src="https://github.com/pwnkcin.png" width="100px;" alt="William Coelho"/><br>
+        <sub>
+          <b>Nicolas Gomes</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
